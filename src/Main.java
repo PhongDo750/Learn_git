@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Phong");
         System.out.println("Phong-2");
-        System.out.println("Phong-2");
+        System.out.println("Phong-main");
     }
 }
